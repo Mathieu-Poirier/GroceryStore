@@ -1,0 +1,8 @@
+*.help
+.vscode
+.calude
+.codex
+.agent
+*.md
+logfile
+migrations
